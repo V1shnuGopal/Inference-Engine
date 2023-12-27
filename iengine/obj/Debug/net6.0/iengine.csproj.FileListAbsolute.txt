@@ -1,0 +1,15 @@
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\bin\Debug\net6.0\iengine.exe
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\bin\Debug\net6.0\iengine.deps.json
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\bin\Debug\net6.0\iengine.runtimeconfig.json
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\bin\Debug\net6.0\iengine.dll
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\bin\Debug\net6.0\iengine.pdb
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.csproj.AssemblyReference.cache
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.dll
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\refint\iengine.dll
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.pdb
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\iengine.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Documents\cos300019code\iengine\iengine\obj\Debug\net6.0\ref\iengine.dll

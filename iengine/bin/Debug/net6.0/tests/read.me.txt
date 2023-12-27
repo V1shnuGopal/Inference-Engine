@@ -1,0 +1,24 @@
+e1.txt easy test - 1 model
+e2.txt easy test - 3 models
+e3.txt easy test - 2 models
+e4.txt easy test - 2 models
+
+t1.txt test provided on Canvas - 3 models
+t2.txt test similar to one provided on Canvas - 1 model
+
+n1, n2, n3, n4, n5 are tests with a NO ansswer
+
+no_ne.txt is a test with a NO answer, not easy
+
+d1, d2, d3, d4, d5 are more difficult tests 
+
+d1 - YES, 2
+d2 - YES, 1
+d3 - NO
+d4 - NO
+d5 - YES, 1
+
+g1 - generic knowledge base, YES, 2 models
+g2 - generic knowledge base, NO
+g3 - generic knowledge base, YES, 3 models
+

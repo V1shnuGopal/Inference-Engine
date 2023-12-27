@@ -1,0 +1,4 @@
+TELL
+Player => Found; Found => the; the => Wumpus; Wumpus => and; and => He; He => got; got => Eaten; Player;
+ASK
+Eaten
